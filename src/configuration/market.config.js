@@ -1,0 +1,8 @@
+export const APIFunctionType = {
+    SYMBOL_SEARCH: 'SYMBOL_SEARCH',
+    GLOBAL_QUOTE: 'GLOBAL_QUOTE',
+    OVERVIEW: 'OVERVIEW',
+    EARNINGS: 'EARNINGS'
+}
+
+export const APIKey = "7YT8OT0MCFQAJYMP"
